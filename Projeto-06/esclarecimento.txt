@@ -1,0 +1,4 @@
+Nesse projeto eu tentei usar um pouco de js porém
+eu não tive um bom desempenho em conseguir resolver o problema de js.
+Entretanto eu não desisti e deixei duas partes do projeto,uma aonde foi até a parte que eu consegui
+e a outra é o projeto completo porém disfuncional.s
